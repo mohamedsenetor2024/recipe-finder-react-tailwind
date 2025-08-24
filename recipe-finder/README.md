@@ -68,4 +68,26 @@ Handle dynamic rendering of content in React.
 
 ✅ Save favorite recipes with local storage.
 
+
+
+
+
+## ⚡ Challenges Faced & How I Handled Them
+1. **React key warning** – Initially, React showed a warning about missing `key` props when mapping through meals. I fixed this by adding `key={meal.idMeal}` to each rendered recipe article.  
+2. **Dynamic ingredient rendering** – The API provides ingredients in separate fields (`strIngredient1`, `strIngredient2`, etc.), which made mapping them tricky. I plan to refactor this into a loop to display them dynamically.  
+3. **Styling consistency** – Tailwind CSS classes were overwhelming at first. To handle this, I broke down the UI into smaller sections and applied utility classes step by step.  
+
+---
+
+## 📅 What’s Next? (Upcoming Week Plan)
+- ✅ Implement a **dynamic ingredient list** using loops instead of hardcoding.  
+- ✅ Add a **search bar functionality** so users can look up meals beyond “Arrabiata.”  
+- ✅ Work on **better UI/UX**, such as cards or grid layouts for recipes.  
+- ✅ Begin implementing **local storage** to save favorite recipes for persistence.  
+
+
+
+
+
+
 ## 🚀 I will continue on {Next Week : Finalize $ Submit}

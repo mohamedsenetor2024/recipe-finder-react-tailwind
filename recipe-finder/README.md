@@ -88,6 +88,21 @@ Handle dynamic rendering of content in React.
 
 
 
+## 🚀 --
+
+📌 Improvements Implemented in Final Submission
+
+✅ Search bar for recipes.
+✅ Dynamic ingredient rendering.
+✅ Responsive UI with cards/grid layouts.
+✅ Favorites feature using local storage.
+✅ Clean and consistent Tailwind CSS design.
 
 
-## 🚀 I will continue on {Next Week : Finalize $ Submit}
+---
+
+📅 Project Timeline
+
+Part 4: Implemented search, dynamic ingredients, and UI improvements.
+
+Part 5 (Final): Added favorites, polished UI, finalized project for submission. ✅
